@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luciano-es-mon/static/css/main.e82aebdb.css",
+    "main.js": "/luciano-es-mon/static/js/main.94f08164.js",
+    "index.html": "/luciano-es-mon/index.html",
+    "main.e82aebdb.css.map": "/luciano-es-mon/static/css/main.e82aebdb.css.map",
+    "main.94f08164.js.map": "/luciano-es-mon/static/js/main.94f08164.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82aebdb.css",
+    "static/js/main.94f08164.js"
+  ]
+}
